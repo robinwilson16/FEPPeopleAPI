@@ -1,0 +1,7 @@
+# Ignore appsettings which can contain sensitive info
+appsettings.json
+appsettings.Development.json
+
+# Ignore web.dbconfig and web.config which can contain sensitive info
+Web.config
+web.dbconfig

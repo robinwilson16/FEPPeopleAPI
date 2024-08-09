@@ -1,0 +1,708 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|c:\\users\\robin.wilson\\source\\repos\\feppeopleapi\\feppeopleapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|solutionrelative:feppeopleapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|c:\\users\\robin.wilson\\source\\repos\\feppeopleapi\\feppeopleapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|solutionrelative:feppeopleapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|c:\\users\\robin.wilson\\source\\repos\\feppeopleapi\\feppeopleapi\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|solutionrelative:feppeopleapi\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|c:\\users\\robin.wilson\\source\\repos\\feppeopleapi\\feppeopleapi\\feppeopleapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|solutionrelative:feppeopleapi\\feppeopleapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|c:\\users\\robin.wilson\\source\\repos\\feppeopleapi\\feppeopleapi\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|solutionrelative:feppeopleapi\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|c:\\users\\robin.wilson\\source\\repos\\feppeopleapi\\feppeopleapi\\services\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|solutionrelative:feppeopleapi\\services\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|c:\\users\\robin.wilson\\source\\repos\\feppeopleapi\\feppeopleapi\\controllers\\persontypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|solutionrelative:feppeopleapi\\controllers\\persontypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|c:\\users\\robin.wilson\\source\\repos\\feppeopleapi\\feppeopleapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|solutionrelative:feppeopleapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|c:\\users\\robin.wilson\\source\\repos\\feppeopleapi\\feppeopleapi\\models\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|solutionrelative:feppeopleapi\\models\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|c:\\users\\robin.wilson\\source\\repos\\feppeopleapi\\feppeopleapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|solutionrelative:feppeopleapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|c:\\users\\robin.wilson\\source\\repos\\feppeopleapi\\feppeopleapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|solutionrelative:feppeopleapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|c:\\users\\robin.wilson\\source\\repos\\feppeopleapi\\feppeopleapi\\feppeopleapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|solutionrelative:feppeopleapi\\feppeopleapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|c:\\users\\robin.wilson\\source\\repos\\feppeopleapi\\feppeopleapi\\models\\holiday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|solutionrelative:feppeopleapi\\models\\holiday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|c:\\users\\robin.wilson\\source\\repos\\feppeopleapi\\feppeopleapi\\models\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|solutionrelative:feppeopleapi\\models\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|c:\\users\\robin.wilson\\source\\repos\\feppeopleapi\\feppeopleapi\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|solutionrelative:feppeopleapi\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|c:\\users\\robin.wilson\\source\\repos\\feppeopleapi\\feppeopleapi\\models\\contractday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|solutionrelative:feppeopleapi\\models\\contractday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|c:\\users\\robin.wilson\\source\\repos\\feppeopleapi\\feppeopleapi\\models\\personavailability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|solutionrelative:feppeopleapi\\models\\personavailability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|c:\\users\\robin.wilson\\source\\repos\\feppeopleapi\\feppeopleapi\\models\\leadday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|solutionrelative:feppeopleapi\\models\\leadday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|c:\\users\\robin.wilson\\source\\repos\\feppeopleapi\\feppeopleapi\\models\\specialism.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|solutionrelative:feppeopleapi\\models\\specialism.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|c:\\users\\robin.wilson\\source\\repos\\feppeopleapi\\feppeopleapi\\models\\persontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|solutionrelative:feppeopleapi\\models\\persontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|c:\\users\\robin.wilson\\source\\repos\\feppeopleapi\\feppeopleapi\\models\\personspecialism.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|solutionrelative:feppeopleapi\\models\\personspecialism.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|c:\\users\\robin.wilson\\source\\repos\\feppeopleapi\\feppeopleapi\\models\\organisationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|solutionrelative:feppeopleapi\\models\\organisationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|c:\\users\\robin.wilson\\source\\repos\\feppeopleapi\\feppeopleapi\\models\\organisationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|solutionrelative:feppeopleapi\\models\\organisationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|c:\\users\\robin.wilson\\source\\repos\\feppeopleapi\\feppeopleapi\\models\\organisation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|solutionrelative:feppeopleapi\\models\\organisation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|c:\\users\\robin.wilson\\source\\repos\\feppeopleapi\\feppeopleapi\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|solutionrelative:feppeopleapi\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|c:\\users\\robin.wilson\\source\\repos\\feppeopleapi\\feppeopleapi\\models\\leadspecialism.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|solutionrelative:feppeopleapi\\models\\leadspecialism.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|c:\\users\\robin.wilson\\source\\repos\\feppeopleapi\\feppeopleapi\\models\\lead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|solutionrelative:feppeopleapi\\models\\lead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|c:\\users\\robin.wilson\\source\\repos\\feppeopleapi\\feppeopleapi\\services\\persontypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|solutionrelative:feppeopleapi\\services\\persontypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Migrations\\20240610205913_Add Contract TableW.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FEPPeopleAPI\\Migrations\\20240610205913_Add Contract TableW.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|c:\\users\\robin.wilson\\source\\repos\\feppeopleapi\\feppeopleapi\\migrations\\20240611074103_amend decimal in leads table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|solutionrelative:feppeopleapi\\migrations\\20240611074103_amend decimal in leads table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|c:\\users\\robin.wilson\\source\\repos\\feppeopleapi\\feppeopleapi\\migrations\\20240611073824_add leads table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|solutionrelative:feppeopleapi\\migrations\\20240611073824_add leads table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|c:\\users\\robin.wilson\\source\\repos\\feppeopleapi\\feppeopleapi\\migrations\\20240610205951_add contract table2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|solutionrelative:feppeopleapi\\migrations\\20240610205951_add contract table2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|c:\\users\\robin.wilson\\source\\repos\\feppeopleapi\\feppeopleapi\\migrations\\20240610200607_add person type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|solutionrelative:feppeopleapi\\migrations\\20240610200607_add person type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|c:\\users\\robin.wilson\\source\\repos\\feppeopleapi\\feppeopleapi\\migrations\\20240610200347_add external option for contracts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|solutionrelative:feppeopleapi\\migrations\\20240610200347_add external option for contracts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|c:\\users\\robin.wilson\\source\\repos\\feppeopleapi\\feppeopleapi\\migrations\\20240610200123_add contract table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|solutionrelative:feppeopleapi\\migrations\\20240610200123_add contract table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|c:\\users\\robin.wilson\\source\\repos\\feppeopleapi\\feppeopleapi\\migrations\\20240610195004_add more database contraints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|solutionrelative:feppeopleapi\\migrations\\20240610195004_add more database contraints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|c:\\users\\robin.wilson\\source\\repos\\feppeopleapi\\feppeopleapi\\migrations\\20240610193819_add person availability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|solutionrelative:feppeopleapi\\migrations\\20240610193819_add person availability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|c:\\users\\robin.wilson\\source\\repos\\feppeopleapi\\feppeopleapi\\migrations\\20240610193214_add organisation tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|solutionrelative:feppeopleapi\\migrations\\20240610193214_add organisation tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|c:\\users\\robin.wilson\\source\\repos\\feppeopleapi\\feppeopleapi\\migrations\\20240610192618_amend referential integrity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|solutionrelative:feppeopleapi\\migrations\\20240610192618_amend referential integrity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|c:\\users\\robin.wilson\\source\\repos\\feppeopleapi\\feppeopleapi\\migrations\\20240610192230_apply person specialism referential integrity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|solutionrelative:feppeopleapi\\migrations\\20240610192230_apply person specialism referential integrity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|c:\\users\\robin.wilson\\source\\repos\\feppeopleapi\\feppeopleapi\\migrations\\20240610191635_initial database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|solutionrelative:feppeopleapi\\migrations\\20240610191635_initial database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|c:\\users\\robin.wilson\\source\\repos\\feppeopleapi\\feppeopleapi\\migrations\\20240614150043_add authentication tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|solutionrelative:feppeopleapi\\migrations\\20240614150043_add authentication tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|c:\\users\\robin.wilson\\source\\repos\\feppeopleapi\\feppeopleapi\\migrations\\20240614144214_change dateonly to datetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C1BF57-6AD0-48FE-8419-3C4963114EAD}|FEPPeopleAPI\\FEPPeopleAPI.csproj|solutionrelative:feppeopleapi\\migrations\\20240614144214_change dateonly to datetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "FEPPeopleAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "FEPPeopleAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T15:02:45.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "FEPPeopleAPI\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "FEPPeopleAPI\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T15:02:43.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20240614150043_Add Authentication Tables.cs",
+              "DocumentMoniker": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Migrations\\20240614150043_Add Authentication Tables.cs",
+              "RelativeDocumentMoniker": "FEPPeopleAPI\\Migrations\\20240614150043_Add Authentication Tables.cs",
+              "ToolTip": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Migrations\\20240614150043_Add Authentication Tables.cs",
+              "RelativeToolTip": "FEPPeopleAPI\\Migrations\\20240614150043_Add Authentication Tables.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T15:00:43.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationRole.cs",
+              "DocumentMoniker": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Models\\ApplicationRole.cs",
+              "RelativeDocumentMoniker": "FEPPeopleAPI\\Models\\ApplicationRole.cs",
+              "ToolTip": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Models\\ApplicationRole.cs",
+              "RelativeToolTip": "FEPPeopleAPI\\Models\\ApplicationRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T14:54:44.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "FEPPeopleAPI\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "FEPPeopleAPI\\Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T14:53:50.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "FEPPeopleAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "FEPPeopleAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T18:59:46.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "FEPPeopleAPI\\Controllers\\PersonController.cs",
+              "ToolTip": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "FEPPeopleAPI\\Controllers\\PersonController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T20:29:12.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PersonService.cs",
+              "DocumentMoniker": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Services\\PersonService.cs",
+              "RelativeDocumentMoniker": "FEPPeopleAPI\\Services\\PersonService.cs",
+              "ToolTip": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Services\\PersonService.cs",
+              "RelativeToolTip": "FEPPeopleAPI\\Services\\PersonService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T20:08:24.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Program.cs",
+              "RelativeDocumentMoniker": "FEPPeopleAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Program.cs",
+              "RelativeToolTip": "FEPPeopleAPI\\Program.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAABIAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T18:56:03.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FEPPeopleAPI",
+              "DocumentMoniker": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\FEPPeopleAPI.csproj",
+              "RelativeDocumentMoniker": "FEPPeopleAPI\\FEPPeopleAPI.csproj",
+              "ToolTip": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\FEPPeopleAPI.csproj",
+              "RelativeToolTip": "FEPPeopleAPI\\FEPPeopleAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-15T22:57:42.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersonTypeController.cs",
+              "DocumentMoniker": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Controllers\\PersonTypeController.cs",
+              "RelativeDocumentMoniker": "FEPPeopleAPI\\Controllers\\PersonTypeController.cs",
+              "ToolTip": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Controllers\\PersonTypeController.cs",
+              "RelativeToolTip": "FEPPeopleAPI\\Controllers\\PersonTypeController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAA4wDwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:34:10.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "FEPPeopleAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\appsettings.json",
+              "RelativeToolTip": "FEPPeopleAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-10T19:15:13.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FEPPeopleAPI.http",
+              "DocumentMoniker": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\FEPPeopleAPI.http",
+              "RelativeDocumentMoniker": "FEPPeopleAPI\\FEPPeopleAPI.http",
+              "ToolTip": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\FEPPeopleAPI.http",
+              "RelativeToolTip": "FEPPeopleAPI\\FEPPeopleAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-06-14T14:57:32.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Holiday.cs",
+              "DocumentMoniker": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Models\\Holiday.cs",
+              "RelativeDocumentMoniker": "FEPPeopleAPI\\Models\\Holiday.cs",
+              "ToolTip": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Models\\Holiday.cs",
+              "RelativeToolTip": "FEPPeopleAPI\\Models\\Holiday.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T14:44:19.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20240614144214_Change DateOnly to DateTime.cs",
+              "DocumentMoniker": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Migrations\\20240614144214_Change DateOnly to DateTime.cs",
+              "RelativeDocumentMoniker": "FEPPeopleAPI\\Migrations\\20240614144214_Change DateOnly to DateTime.cs",
+              "ToolTip": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Migrations\\20240614144214_Change DateOnly to DateTime.cs",
+              "RelativeToolTip": "FEPPeopleAPI\\Migrations\\20240614144214_Change DateOnly to DateTime.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T14:42:15.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "FEPPeopleAPI\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Models\\Person.cs",
+              "RelativeToolTip": "FEPPeopleAPI\\Models\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T19:00:46.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PersonAvailability.cs",
+              "DocumentMoniker": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Models\\PersonAvailability.cs",
+              "RelativeDocumentMoniker": "FEPPeopleAPI\\Models\\PersonAvailability.cs",
+              "ToolTip": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Models\\PersonAvailability.cs",
+              "RelativeToolTip": "FEPPeopleAPI\\Models\\PersonAvailability.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T19:35:35.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LeadDay.cs",
+              "DocumentMoniker": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Models\\LeadDay.cs",
+              "RelativeDocumentMoniker": "FEPPeopleAPI\\Models\\LeadDay.cs",
+              "ToolTip": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Models\\LeadDay.cs",
+              "RelativeToolTip": "FEPPeopleAPI\\Models\\LeadDay.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T07:35:20.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PersonType.cs",
+              "DocumentMoniker": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Models\\PersonType.cs",
+              "RelativeDocumentMoniker": "FEPPeopleAPI\\Models\\PersonType.cs",
+              "ToolTip": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Models\\PersonType.cs",
+              "RelativeToolTip": "FEPPeopleAPI\\Models\\PersonType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T20:04:52.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PersonSpecialism.cs",
+              "DocumentMoniker": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Models\\PersonSpecialism.cs",
+              "RelativeDocumentMoniker": "FEPPeopleAPI\\Models\\PersonSpecialism.cs",
+              "ToolTip": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Models\\PersonSpecialism.cs",
+              "RelativeToolTip": "FEPPeopleAPI\\Models\\PersonSpecialism.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T19:04:31.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrganisationType.cs",
+              "DocumentMoniker": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Models\\OrganisationType.cs",
+              "RelativeDocumentMoniker": "FEPPeopleAPI\\Models\\OrganisationType.cs",
+              "ToolTip": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Models\\OrganisationType.cs",
+              "RelativeToolTip": "FEPPeopleAPI\\Models\\OrganisationType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T19:29:36.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrganisationStatus.cs",
+              "DocumentMoniker": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Models\\OrganisationStatus.cs",
+              "RelativeDocumentMoniker": "FEPPeopleAPI\\Models\\OrganisationStatus.cs",
+              "ToolTip": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Models\\OrganisationStatus.cs",
+              "RelativeToolTip": "FEPPeopleAPI\\Models\\OrganisationStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T19:30:38.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Organisation.cs",
+              "DocumentMoniker": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Models\\Organisation.cs",
+              "RelativeDocumentMoniker": "FEPPeopleAPI\\Models\\Organisation.cs",
+              "ToolTip": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Models\\Organisation.cs",
+              "RelativeToolTip": "FEPPeopleAPI\\Models\\Organisation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T19:28:05.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Contract.cs",
+              "DocumentMoniker": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Models\\Contract.cs",
+              "RelativeDocumentMoniker": "FEPPeopleAPI\\Models\\Contract.cs",
+              "ToolTip": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Models\\Contract.cs",
+              "RelativeToolTip": "FEPPeopleAPI\\Models\\Contract.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswBUAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T19:52:43.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Models\\Note.cs",
+              "RelativeDocumentMoniker": "FEPPeopleAPI\\Models\\Note.cs",
+              "ToolTip": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Models\\Note.cs",
+              "RelativeToolTip": "FEPPeopleAPI\\Models\\Note.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T07:28:45.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Specialism.cs",
+              "DocumentMoniker": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Models\\Specialism.cs",
+              "RelativeDocumentMoniker": "FEPPeopleAPI\\Models\\Specialism.cs",
+              "ToolTip": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Models\\Specialism.cs",
+              "RelativeToolTip": "FEPPeopleAPI\\Models\\Specialism.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T19:01:38.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ContractDay.cs",
+              "DocumentMoniker": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Models\\ContractDay.cs",
+              "RelativeDocumentMoniker": "FEPPeopleAPI\\Models\\ContractDay.cs",
+              "ToolTip": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Models\\ContractDay.cs",
+              "RelativeToolTip": "FEPPeopleAPI\\Models\\ContractDay.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T19:59:44.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LeadSpecialism.cs",
+              "DocumentMoniker": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Models\\LeadSpecialism.cs",
+              "RelativeDocumentMoniker": "FEPPeopleAPI\\Models\\LeadSpecialism.cs",
+              "ToolTip": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Models\\LeadSpecialism.cs",
+              "RelativeToolTip": "FEPPeopleAPI\\Models\\LeadSpecialism.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T07:33:14.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Lead.cs",
+              "DocumentMoniker": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Models\\Lead.cs",
+              "RelativeDocumentMoniker": "FEPPeopleAPI\\Models\\Lead.cs",
+              "ToolTip": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Models\\Lead.cs",
+              "RelativeToolTip": "FEPPeopleAPI\\Models\\Lead.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T07:29:59.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PersonTypeService.cs",
+              "DocumentMoniker": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Services\\PersonTypeService.cs",
+              "RelativeDocumentMoniker": "FEPPeopleAPI\\Services\\PersonTypeService.cs",
+              "ToolTip": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Services\\PersonTypeService.cs",
+              "RelativeToolTip": "FEPPeopleAPI\\Services\\PersonTypeService.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAA/wDQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:27:30.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20240611074103_Amend Decimal In Leads Table.cs",
+              "DocumentMoniker": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Migrations\\20240611074103_Amend Decimal In Leads Table.cs",
+              "RelativeDocumentMoniker": "FEPPeopleAPI\\Migrations\\20240611074103_Amend Decimal In Leads Table.cs",
+              "ToolTip": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Migrations\\20240611074103_Amend Decimal In Leads Table.cs",
+              "RelativeToolTip": "FEPPeopleAPI\\Migrations\\20240611074103_Amend Decimal In Leads Table.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T07:41:04.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20240611073824_Add Leads Table.cs",
+              "DocumentMoniker": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Migrations\\20240611073824_Add Leads Table.cs",
+              "RelativeDocumentMoniker": "FEPPeopleAPI\\Migrations\\20240611073824_Add Leads Table.cs",
+              "ToolTip": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Migrations\\20240611073824_Add Leads Table.cs",
+              "RelativeToolTip": "FEPPeopleAPI\\Migrations\\20240611073824_Add Leads Table.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T07:38:24.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20240610205951_Add Contract Table2.cs",
+              "DocumentMoniker": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Migrations\\20240610205951_Add Contract Table2.cs",
+              "RelativeDocumentMoniker": "FEPPeopleAPI\\Migrations\\20240610205951_Add Contract Table2.cs",
+              "ToolTip": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Migrations\\20240610205951_Add Contract Table2.cs",
+              "RelativeToolTip": "FEPPeopleAPI\\Migrations\\20240610205951_Add Contract Table2.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T20:59:51.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20240610205913_Add Contract TableW.cs",
+              "DocumentMoniker": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Migrations\\20240610205913_Add Contract TableW.cs",
+              "RelativeDocumentMoniker": "FEPPeopleAPI\\Migrations\\20240610205913_Add Contract TableW.cs",
+              "ToolTip": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Migrations\\20240610205913_Add Contract TableW.cs",
+              "RelativeToolTip": "FEPPeopleAPI\\Migrations\\20240610205913_Add Contract TableW.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T20:59:13.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20240610200607_Add Person Type.cs",
+              "DocumentMoniker": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Migrations\\20240610200607_Add Person Type.cs",
+              "RelativeDocumentMoniker": "FEPPeopleAPI\\Migrations\\20240610200607_Add Person Type.cs",
+              "ToolTip": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Migrations\\20240610200607_Add Person Type.cs",
+              "RelativeToolTip": "FEPPeopleAPI\\Migrations\\20240610200607_Add Person Type.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T20:06:07.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20240610200347_Add External Option for Contracts.cs",
+              "DocumentMoniker": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Migrations\\20240610200347_Add External Option for Contracts.cs",
+              "RelativeDocumentMoniker": "FEPPeopleAPI\\Migrations\\20240610200347_Add External Option for Contracts.cs",
+              "ToolTip": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Migrations\\20240610200347_Add External Option for Contracts.cs",
+              "RelativeToolTip": "FEPPeopleAPI\\Migrations\\20240610200347_Add External Option for Contracts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T20:03:47.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20240610200123_Add Contract Table.cs",
+              "DocumentMoniker": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Migrations\\20240610200123_Add Contract Table.cs",
+              "RelativeDocumentMoniker": "FEPPeopleAPI\\Migrations\\20240610200123_Add Contract Table.cs",
+              "ToolTip": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Migrations\\20240610200123_Add Contract Table.cs",
+              "RelativeToolTip": "FEPPeopleAPI\\Migrations\\20240610200123_Add Contract Table.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T20:01:23.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20240610195004_Add more database contraints.cs",
+              "DocumentMoniker": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Migrations\\20240610195004_Add more database contraints.cs",
+              "RelativeDocumentMoniker": "FEPPeopleAPI\\Migrations\\20240610195004_Add more database contraints.cs",
+              "ToolTip": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Migrations\\20240610195004_Add more database contraints.cs",
+              "RelativeToolTip": "FEPPeopleAPI\\Migrations\\20240610195004_Add more database contraints.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T19:50:04.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20240610193819_Add Person Availability.cs",
+              "DocumentMoniker": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Migrations\\20240610193819_Add Person Availability.cs",
+              "RelativeDocumentMoniker": "FEPPeopleAPI\\Migrations\\20240610193819_Add Person Availability.cs",
+              "ToolTip": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Migrations\\20240610193819_Add Person Availability.cs",
+              "RelativeToolTip": "FEPPeopleAPI\\Migrations\\20240610193819_Add Person Availability.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T19:38:19.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20240610193214_Add Organisation Tables.cs",
+              "DocumentMoniker": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Migrations\\20240610193214_Add Organisation Tables.cs",
+              "RelativeDocumentMoniker": "FEPPeopleAPI\\Migrations\\20240610193214_Add Organisation Tables.cs",
+              "ToolTip": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Migrations\\20240610193214_Add Organisation Tables.cs",
+              "RelativeToolTip": "FEPPeopleAPI\\Migrations\\20240610193214_Add Organisation Tables.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T19:32:14.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20240610192618_Amend Referential Integrity.cs",
+              "DocumentMoniker": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Migrations\\20240610192618_Amend Referential Integrity.cs",
+              "RelativeDocumentMoniker": "FEPPeopleAPI\\Migrations\\20240610192618_Amend Referential Integrity.cs",
+              "ToolTip": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Migrations\\20240610192618_Amend Referential Integrity.cs",
+              "RelativeToolTip": "FEPPeopleAPI\\Migrations\\20240610192618_Amend Referential Integrity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T19:26:18.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20240610192230_Apply Person Specialism Referential Integrity.cs",
+              "DocumentMoniker": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Migrations\\20240610192230_Apply Person Specialism Referential Integrity.cs",
+              "RelativeDocumentMoniker": "FEPPeopleAPI\\Migrations\\20240610192230_Apply Person Specialism Referential Integrity.cs",
+              "ToolTip": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Migrations\\20240610192230_Apply Person Specialism Referential Integrity.cs",
+              "RelativeToolTip": "FEPPeopleAPI\\Migrations\\20240610192230_Apply Person Specialism Referential Integrity.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T19:22:30.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20240610191635_Initial Database.cs",
+              "DocumentMoniker": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Migrations\\20240610191635_Initial Database.cs",
+              "RelativeDocumentMoniker": "FEPPeopleAPI\\Migrations\\20240610191635_Initial Database.cs",
+              "ToolTip": "C:\\Users\\robin.wilson\\source\\repos\\FEPPeopleAPI\\FEPPeopleAPI\\Migrations\\20240610191635_Initial Database.cs",
+              "RelativeToolTip": "FEPPeopleAPI\\Migrations\\20240610191635_Initial Database.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T19:16:35.366Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
